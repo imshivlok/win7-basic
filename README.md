@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/win7-basic?style=social)
   ![Progress](https://img.shields.io/badge/Complete%20(with%20bugs)-238636)<br>
   
-  <img src="/images/logo.webp" alt="logo" title="logo" width="10%">
+  <img src="/images/logo.webp" alt="logo" title="logo" width="20%">
 
  <h2>Windows 7 Simulator</h2>
   A simple, neat and clean Windows 7 Basic Simulator.<br>Built using HTML/CSS/JS.<br><br>
