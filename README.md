@@ -14,11 +14,11 @@
 
 <h2>Demo Screenshots</h2>
 
-  <img src="/images/screenshot1rounded.png" alt="screenshot1" title="screenshot1" width="100%"><br>
-  <img src="/images/screenshot2rounded.png" alt="screenshot2" title="screenshot2" width="100%"><br>
-  <img src="/images/screenshot3rounded.png" alt="screenshot3" title="screenshot3" width="100%"><br>
-  <img src="/images/screenshot4rounded.png" alt="screenshot4" title="screenshot4" width="100%"><br>
-  <img src="/images/screenshot5rounded.png" alt="screenshot5" title="screenshot5" width="100%"><br>
+  <img src="/images/screenshot1.PNG" alt="screenshot1" title="screenshot1" width="100%"><br>
+  <img src="/images/screenshot2.PNG" alt="screenshot2" title="screenshot2" width="100%"><br>
+  <img src="/images/screenshot3.PNG" alt="screenshot3" title="screenshot3" width="100%"><br>
+  <img src="/images/screenshot4.PNG" alt="screenshot4" title="screenshot4" width="100%"><br>
+  <img src="/images/screenshot5.PNG" alt="screenshot5" title="screenshot5" width="100%"><br>
 
 <h2>Active Hosts</h2>
 
