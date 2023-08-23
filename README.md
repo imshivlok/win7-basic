@@ -8,7 +8,7 @@
   <img src="/images/logo.jpg" alt="logo" title="logo" width="30%">
 
  <h2>Windows 7 Simulator</h2>
-  A simple, neat and clean Windows 7 Basic Simulator<br>Built using HTML/CSS/JS.<br><br>
+  A simple, neat and clean Windows 7 Basic Simulator.<br>Built using HTML/CSS/JS.<br><br>
 <a href="https://imshivlok.github.io/win7-basic/" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 
